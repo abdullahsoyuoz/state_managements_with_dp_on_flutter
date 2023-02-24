@@ -1,4 +1,4 @@
-# state_managements
+# state managements app
 
 A new Flutter project.
 
